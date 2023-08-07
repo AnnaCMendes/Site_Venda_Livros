@@ -17,6 +17,8 @@
 <h2>O desafio:</h2>
 <p align="justify">Seguindo a metodologia SwiperJS, a criação de um site de vendas de Livros de tecnologia, nas versões Mobile, Tablet e Desktop.</p>
 
+<p>Disponível apenas para Computadores, Celulares e Tablet.</p>
+
 --------------------------------------------------------------------------------------------------------------------
 
 <h2>Definição do problema:</h2>
