@@ -18,6 +18,7 @@
 <p align="justify">Seguindo a metodologia SwiperJS, a criação de um site de vendas de Livros de tecnologia, nas versões Mobile, Tablet e Desktop.</p>
 
 <p>Disponível apenas para Computadores, Celulares e Tablet.</p>
+<a href="https://site-venda-livros.vercel.app/">Veja aqui o projeto!</a>
 
 --------------------------------------------------------------------------------------------------------------------
 
